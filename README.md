@@ -45,7 +45,7 @@ The system captures and analyzes facial features, matches them with stored profi
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YourUsername/smart-facial-attendance-tracker.git
+git clone https://github.com/Tharunpatnayak/smart-facial-attendance-tracker.git
 cd smart-facial-attendance-tracker
 ```
 2.Create a virtual environment (recommended)
