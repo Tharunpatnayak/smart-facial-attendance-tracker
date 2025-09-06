@@ -84,19 +84,19 @@ python Face_Recognition_Software.py
 ```
 
 🚀 Usage Flow
-i) Admin logs into the system.
-ii) Register students/employees with details and face samples.
-iii) Train the dataset.
-iv) Start real-time facial recognition.
-v) Attendance is logged automatically into the database.
-vi) Reports can be exported as CSV.
+- Admin logs into the system.
+- Register students/employees with details and face samples.
+- Train the dataset.
+- Start real-time facial recognition.
+- Attendance is logged automatically into the database.
+- Reports can be exported as CSV.
 
 
 🔮 Future Scope
 - Cloud integration for centralized attendance management.
 - Mobile app support for remote access.
 - AI improvements for mask detection and low-light accuracy.
--Multi-camera support for large classrooms/events.
+- Multi-camera support for large classrooms/events.
 
 
 
