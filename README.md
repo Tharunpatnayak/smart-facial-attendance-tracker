@@ -48,7 +48,7 @@ The system captures and analyzes facial features, matches them with stored profi
 git clone https://github.com/Tharunpatnayak/smart-facial-attendance-tracker.git
 cd smart-facial-attendance-tracker
 ```
-2.Create a virtual environment (recommended)
+2. Create a virtual environment (recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
